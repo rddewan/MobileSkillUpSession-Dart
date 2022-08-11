@@ -1,6 +1,6 @@
 
-import 'package:mobile_skill_up_session/auth.dart';
-import 'package:mobile_skill_up_session/file_logger.dart';
+import 'package:mobile_skill_up_session/srp/auth.dart';
+import 'package:mobile_skill_up_session/srp/file_logger.dart';
 
 class AuthRepository {
   final Auth _auth;
